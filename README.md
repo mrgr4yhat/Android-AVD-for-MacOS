@@ -16,6 +16,7 @@ via Homebrew — including SDK installation, license acceptance, and AVD creatio
 
 ## Usage
 chmod +x install-avd-macos.sh
+
 ./install-avd-macos.sh
 
 ## Launch Emulator
