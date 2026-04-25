@@ -20,6 +20,7 @@ chmod +x install-avd-macos.sh
 
 ## Launch Emulator
 source ~/.zshrc
+
 emulator -avd Emulator -gpu host
 
 ## Requirements
