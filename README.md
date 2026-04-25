@@ -1,4 +1,3 @@
-# Android-AVD-for-MacOS
 
 # install-avd-macos
 
